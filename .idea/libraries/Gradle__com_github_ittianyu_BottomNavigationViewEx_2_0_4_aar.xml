@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:2.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46ff411f5014f72aa529572f2e76fb00/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46ff411f5014f72aa529572f2e76fb00/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46ff411f5014f72aa529572f2e76fb00/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36c7a6538b5e3100eabaf3347ea97e9a/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97fe156153b2fec52ee3983800ab1590/transformed/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8c6c8c77dad8122453c1147645f403cb/transformed/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32d4124a9dfe08ce2b4fd5c0d5356f48/transformed/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32d4124a9dfe08ce2b4fd5c0d5356f48/transformed/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32d4124a9dfe08ce2b4fd5c0d5356f48/transformed/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/9d06b084a4c1c21e4a8a2c20868b4f2049544c9f/BottomNavigationViewEx-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
